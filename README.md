@@ -1,2 +1,2 @@
 # OceanStrikesBack
-Jogo de tabuleiro "O Oceano Contra-ataca".
+Jogo de tabuleiro "O Oceano Contra-ataca" multiplataformas.
